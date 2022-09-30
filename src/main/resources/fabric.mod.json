@@ -1,18 +1,18 @@
 {
   "schemaVersion": 1,
-  "id": "advdebug",
+  "id": "legacy-advdebug",
   "version": "${version}",
 
-  "name": "Advancements Debug",
+  "name": "Legacy Advancements Debug",
   "description": "This little mod rewrites one function of the advancements logic to make advancements checking faster, and use less recursion. It should prevent StackOverflowErrors with advancements.",
   "authors": [
     "Technici4n"
   ],
 
   "contact": {
-    "homepage": "https://www.curseforge.com/minecraft/mc-mods/advancements-debug",
-    "sources": "https://github.com/Technici4n/advancements-debug",
-    "issues": "https://github.com/Technici4n/advancements-debug/issues"
+    "homepage": "https://modrinth.com/mod/legacy-advancements-debug",
+    "sources": "https://github.com/KingContaria/advancements-debug/tree/legacy-backport",
+    "issues": "https://github.com/KingContaria/advancements-debug/issues"
   },
 
   "license": "CC0-1.0",
