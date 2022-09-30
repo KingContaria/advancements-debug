@@ -4,7 +4,7 @@
   "package": "technici4n.advdebug.mixin",
   "compatibilityLevel": "JAVA_8",
   "mixins": [
-    "PlayerAdvancementTrackerMixin"
+    "AdvancementFileMixin"
   ],
   "injectors": {
     "defaultRequire": 1
